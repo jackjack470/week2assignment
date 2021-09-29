@@ -22,6 +22,7 @@
 
 ### App Walkthough GIF
 
+![week2](https://user-images.githubusercontent.com/89863534/135193595-f7d5d712-81fc-4c0a-9e14-1543d6cfac34.gif)
 
 
 https://imgur.com/a/Mm4WWMO
